@@ -35,10 +35,7 @@ html, body {
 	height: 100%;
 }
 #about {
-	float: right;
-	margin: 1%;
-	width: 45%;
-	height: 45%;
+	
 }
 #footer {
 	clear: both;
@@ -76,10 +73,20 @@ html, body {
 	width: 100%;
 	height: auto;
 }
-#leftNut {
-
+#mane {
+	margin:15px;
+}
+#leftNip {
+	
 }
 #rightNut {
+	
+}
+#leftNut {
+		width: 50%;
+}
+#rightNut {
+	width: 50%;
 	position: 50%;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
