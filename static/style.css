@@ -1,11 +1,9 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	/*
-	background: url(http://i.imgur.com/N2XDtVY.jpg);
+	
+	background: url(http://68.media.tumblr.com/09cbbaf1cd5dfe146f051418271e3ea2/tumblr_inline_msmpotBPLf1qz4rgp.jpg);
 	background-size: 100%;
-	height: 660px;
-	*/
 }
 .hidden {
 	display: none;
@@ -69,10 +67,12 @@ html, body {
 	height: auto;
 }
 #leftNut {
-	padding: 0;
+
 }
 #rightNut {
-	padding: 0;
+	position: 50%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
-	padding: 0;
+#main {
+	margin-top: 15px;
 }
