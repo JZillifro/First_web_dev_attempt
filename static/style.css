@@ -35,6 +35,10 @@ html, body {
 #footer {
 	clear: both;
 	height: 66px;
+	position:absolute;
+	width:100%;
+	bottom:0;
+	left:0;
 }
 #name {
 	float: left;
@@ -57,10 +61,18 @@ html, body {
 	width: auto;
 }
 #imageContainer {
-	height: 200px;
-	width: 200px;
+	width: 30%;
+	height: auto;
 }
 #profile {
-	height: 200px;
-	width: auto;
+	width: 100%;
+	height: auto;
+}
+#leftNut {
+	padding: 0;
+}
+#rightNut {
+	padding: 0;
+}
+	padding: 0;
 }

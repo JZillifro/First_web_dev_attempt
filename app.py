@@ -17,4 +17,4 @@ def resume():
 
 if __name__ == '__main__':
     print("starting app")
-    app.run(port=os.environ.get("PORT", 5050))
+    app.run(port=os.environ.get("PORT", 5050), debug=True)
