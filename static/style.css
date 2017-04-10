@@ -1,0 +1,66 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	/*
+	background: url(http://i.imgur.com/N2XDtVY.jpg);
+	background-size: 100%;
+	height: 660px;
+	*/
+}
+.hidden {
+	display: none;
+}
+#menuBar {
+	height: 50px;
+}
+#imageTag {
+	font-size: 2em;
+}
+#image {
+	
+	
+}
+#textBody {
+	font-size: 1.5em;
+	margin-top: 10%;
+	float: right;
+	width: 280px;
+	position: relative;
+    margin-left: 100%;
+}
+#pageContainer {
+	
+	margin: auto;
+}
+#footer {
+	clear: both;
+	height: 66px;
+}
+#name {
+	float: left;
+}
+#menu {
+	float: right;
+}
+#menuButtons {
+	list-style: none;
+	display: inline-block;
+}
+#menuButtons>li {
+	display: inline-block;
+}
+#navvv {
+	margin-bottom: 0px;
+}
+#youtoob {
+	height: 200px;
+	width: auto;
+}
+#imageContainer {
+	height: 200px;
+	width: 200px;
+}
+#profile {
+	height: 200px;
+	width: auto;
+}
