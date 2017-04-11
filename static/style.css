@@ -5,6 +5,9 @@ html, body {
 	background: url(http://68.media.tumblr.com/09cbbaf1cd5dfe146f051418271e3ea2/tumblr_inline_msmpotBPLf1qz4rgp.jpg);
 	background-size: 100%;
 }
+.row {
+	height: 10%;
+}
 .hidden {
 	display: none;
 }
@@ -75,7 +78,7 @@ html, body {
 }
 #mane {
 	margin:15px;
-	height: 40%;
+	height: 10%;
 	width: auto;
 }
 #leftNip {
@@ -94,7 +97,7 @@ html, body {
 }
 #main {
 	margin-top: 15px;
-	height: 40%;
+	height: 10%;
 	width: auto;
 }
 #resume {
